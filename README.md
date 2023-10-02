@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello, world!👋
 
-<!--
-**Num3ra1s/Num3ra1s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ryan Oet (he/him/his) and I'm a current senior at Swarthmore College majoring in computer science! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software engineer, game developer, and writer.
+<div>
+  <ul>
+    <li>⚡ I'm passionate about usability, accessibility, and high-quality code</li>
+    <li>🔭 I’m currently working on the AlgoArt platform</li>
+    <li>🌱 I’m currently learning lots of LeetCode exercises</li>
+    <li>📫 You can find me on <a href="https://www.linkedin.com/in/ryan-oet/">LinkedIn</a></li>
+  </ul>
+  <div align="center">
+    <img src="https://media.giphy.com/media/VekcnHOwOI5So/giphy.gif" width="200" alt="Gif of a black cat typing furiously on a computer"/>
+    <p>Me, hard at work on my current project!</p>
+  </div>
+</div>
