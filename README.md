@@ -5,9 +5,9 @@ My name is Ryan Oet (he/him/his) and I'm a current senior at Swarthmore College 
 I'm a software engineer, game developer, and writer.
 <div>
   <ul>
-    <li>⚡ I'm passionate about usability, accessibility, and high-quality code</li>
+    <li>⚡ I'm passionate about human-centered design, accessibility, and high-quality code</li>
     <li>🔭 I’m currently working on the AlgoArt platform</li>
-    <li>🌱 I’m currently learning lots of LeetCode exercises</li>
+    <li>🌱 I’m currently practicing MySQL using HackerRank</li>
     <li>📫 You can find me on <a href="https://www.linkedin.com/in/ryan-oet/">LinkedIn</a></li>
   </ul>
   <div align="center">
