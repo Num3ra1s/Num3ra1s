@@ -6,8 +6,8 @@ I'm a software engineer, game developer, and writer.
 <div>
   <ul>
     <li>⚡ I'm passionate about human-centered design, accessibility, and high-quality code</li>
-    <li>🔭 I’m currently working on a casino-themed dungeon crawler video game</li>
-    <li>🌱 I’m currently practicing MySQL using HackerRank</li>
+    <li>🔭 I’m currently researching accessibility within spatial computing applications and AR applications for accessibility</li>
+    <li>🌱 I’m currently reviewing C and teaching precepts for COS217 Intro to Computer Systems at Princeton</li>
     <li>📫 You can find me on <a href="https://www.linkedin.com/in/ryan-oet/">LinkedIn</a></li>
   </ul>
   <div align="center">
