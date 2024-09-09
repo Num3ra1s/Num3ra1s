@@ -1,6 +1,6 @@
 # Hello, world!👋
 
-My name is Ryan Oet (he/him/his) and I'm an incoming first year master's student at Princeton studying computer science!
+My name is Ryan Oet (he/him/his) and I'm a first-year master's student at Princeton studying computer science and human-computer interaction!
 
 I'm a software engineer, game developer, and writer.
 <div>
